@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>circularSection.png</file>
+        <file>rectangleSection.png</file>
+        <file>semiCircularSection.png</file>
+        <file>circularSectionMesures.png</file>
+        <file>rectangleSectionMesures.png</file>
+        <file>semiCircularSectionMesures.png</file>
+        <file>checkmarkRed.png</file>
+        <file>checkmarkGreen.png</file>
+        <file>checkmarkYellow.png</file>
+        <file>fx.png</file>
+        <file>PCHEIcon.png</file>
+        <file>PCHEImg1.png</file>
+        <file>PCHEImg2.png</file>
+    </qresource>
+</RCC>
